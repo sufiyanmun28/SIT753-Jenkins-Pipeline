@@ -1,1 +1,1 @@
-# SIT753-Jenkins-Pipeline
+Testing Jenkins automatic trigger
